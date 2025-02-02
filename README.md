@@ -1,1 +1,1 @@
-![alt text]([http:"C:\Users\yahya\OneDrive\Pictures\Screenshots\FRAUD1.png"](https://github.com/YF4002/CreditCardFraudDetection/blob/main/png/FRAUD1.png))
+![Image](https://github.com/user-attachments/assets/925924b7-43c1-4388-b5fe-6dfc4b8521f6)
